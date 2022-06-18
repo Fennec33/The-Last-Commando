@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 29829975a60e77d4eaa1db68721b034a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5220931202408406580
+    second: PowerArmor_0
+  - first:
+      213: -2842498807277390652
+    second: PowerArmor_1
+  - first:
+      213: 4633860365520396421
+    second: PowerArmor_2
+  - first:
+      213: -6924325336920841416
+    second: PowerArmor_3
+  - first:
+      213: -330296019049346645
+    second: PowerArmor_4
+  - first:
+      213: 7580421241916619036
+    second: PowerArmor_5
+  - first:
+      213: -6012509335781928127
+    second: PowerArmor_6
+  - first:
+      213: 2078000706350868511
+    second: PowerArmor_7
+  - first:
+      213: -6012006713288727423
+    second: PowerArmor_8
+  - first:
+      213: -2983903174238736101
+    second: PowerArmor_9
+  - first:
+      213: 2128261253765806610
+    second: PowerArmor_10
+  - first:
+      213: -2801396271984500694
+    second: PowerArmor_11
+  - first:
+      213: -8686097182617076396
+    second: PowerArmor_12
+  - first:
+      213: -8403777234524433041
+    second: PowerArmor_13
+  - first:
+      213: -1477026477943253133
+    second: PowerArmor_14
+  - first:
+      213: -4428409952330371715
+    second: PowerArmor_15
+  - first:
+      213: 916187122262771454
+    second: PowerArmor_16
+  - first:
+      213: 3223932773287427244
+    second: PowerArmor_17
+  - first:
+      213: -768013581427154432
+    second: PowerArmor_18
+  - first:
+      213: -8311094870976962748
+    second: PowerArmor_19
+  - first:
+      213: 1413775199746434272
+    second: PowerArmor_20
+  - first:
+      213: -2428677546741587304
+    second: PowerArmor_21
+  - first:
+      213: 6012221482797194850
+    second: PowerArmor_22
+  - first:
+      213: -8667283008350220603
+    second: PowerArmor_23
+  - first:
+      213: 8287959198069271246
+    second: PowerArmor_24
+  - first:
+      213: -5300657375094141046
+    second: PowerArmor_25
+  - first:
+      213: -2329902214205388233
+    second: PowerArmor_26
+  - first:
+      213: 8760679838087309007
+    second: PowerArmor_27
+  - first:
+      213: -4547332663464644853
+    second: PowerArmor_28
+  - first:
+      213: 57528921939915695
+    second: PowerArmor_29
+  - first:
+      213: -3173240039924635736
+    second: PowerArmor_30
+  - first:
+      213: -7583792546170752489
+    second: PowerArmor_31
+  - first:
+      213: 8108851715569891056
+    second: PowerArmor_32
+  - first:
+      213: 817431401284225396
+    second: PowerArmor_33
+  - first:
+      213: -3695319403034967808
+    second: PowerArmor_34
+  - first:
+      213: -5334242319575045960
+    second: PowerArmor_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PowerArmor_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1555
+        width: 109
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa80ade7d5bcfe5429ab2922ebbf54bf
+      internalID: -5220931202408406580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1734
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb116afc5f4931c4ea7a1dbc464e47ba
+      internalID: -2842498807277390652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1555
+        width: 109
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29c9c7ca7fa334b802c89a424db610
+      internalID: 4633860365520396421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1537
+        width: 116
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9e19cadeb5940478341dd7146ef85c
+      internalID: -6924325336920841416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_4
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1724
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c896d7e17abd4a8f9d99fbd32f697
+      internalID: -330296019049346645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_5
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1537
+        width: 116
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff57091d54f6734409be6f84cd1e6303
+      internalID: 7580421241916619036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_6
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1546
+        width: 102
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0872771a0b677364e913d7c74ad5aa93
+      internalID: -6012509335781928127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_7
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1693
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9d4f7c0284bd46a1193699854eca9
+      internalID: 2078000706350868511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_8
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1546
+        width: 102
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b338849f45b90438f23c4774b7485b
+      internalID: -6012006713288727423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1490
+        width: 248
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac412f79339297b44b767d642dc1e7bd
+      internalID: -2983903174238736101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_10
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1499
+        width: 294
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb01dbb0b9ce39b44920e60cd3615c22
+      internalID: 2128261253765806610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_11
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1488
+        width: 282
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966301b1ecabef489fc31b8dd0a5c00
+      internalID: -2801396271984500694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 898
+        width: 120
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6f4a2bd02b4ed4381d94d6a28b9a89
+      internalID: -8686097182617076396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1102
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cadfa967a26d2438f8502cb2146727
+      internalID: -8403777234524433041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 898
+        width: 120
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76781064db2df4644ac47c1c44012014
+      internalID: -1477026477943253133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_15
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 902
+        width: 106
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c125cd9c4538545ab6846e987bd1d8
+      internalID: -4428409952330371715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_16
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1078
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b8b92e73e4884888e344d6eaf614e
+      internalID: 916187122262771454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_17
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 902
+        width: 106
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9637a1c8f65fa44a1dbc5eb6684a3d
+      internalID: 3223932773287427244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_18
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 908
+        width: 110
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2916839d707e34ca25e1b650c2f184
+      internalID: -768013581427154432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_19
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1050
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081dbd7d68429f42abbe1888db4f215
+      internalID: -8311094870976962748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_20
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 908
+        width: 110
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a8245e2d5f7154ca94ea90af2285f0
+      internalID: 1413775199746434272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 840
+        width: 249
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ff13e82cbdb2e4eb9845b64a3f54bf
+      internalID: -2428677546741587304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 838
+        width: 242
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0754b86696e6d4199cc07daaa95b05
+      internalID: 6012221482797194850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_23
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 836
+        width: 272
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2033557c1b7e44ad6d8135e7cea8e
+      internalID: -8667283008350220603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 337
+        width: 120
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d341e2ebb43934cbf69c9b21c91f33
+      internalID: 8287959198069271246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 515
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4686f6927d98b345890327d773529bb
+      internalID: -5300657375094141046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_26
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 337
+        width: 120
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473a628896ffaf45b6876b192fa685e
+      internalID: -2329902214205388233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_27
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 324
+        width: 109
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959c97b95bb8ff4182731fb0160c17d
+      internalID: 8760679838087309007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_28
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 507
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f56a1da853b6741878f2a1e8b2ad9f
+      internalID: -4547332663464644853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_29
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 324
+        width: 109
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e88931903a2744b874b1f7472de0d7
+      internalID: 57528921939915695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_30
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 301
+        width: 102
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a86a79b91a29a40aeb3edee99d9ad4
+      internalID: -3173240039924635736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_31
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 509
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0077bc81c4ce274ebbed14aca24a9f1
+      internalID: -7583792546170752489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_32
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 301
+        width: 102
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a3d1809de0fc04b87a643d94afa1d6
+      internalID: 8108851715569891056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 277
+        width: 242
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338a7f96a47a3346b5c1eb531fe4906
+      internalID: 817431401284225396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_34
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 277
+        width: 294
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f65aaf11b299348a050b9fa5d4fd15
+      internalID: -3695319403034967808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerArmor_35
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 277
+        width: 272
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c6230b48d5b4346ab9f31046b402d7
+      internalID: -5334242319575045960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
